@@ -1,0 +1,21 @@
+C:\Users\Pawel\Desktop\DC\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Pawel\Desktop\DC\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\DC\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Pawel\Desktop\DC\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Pawel\Desktop\DC\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Pawel\Desktop\DC\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Pawel\Desktop\DC XML\Czytanie XPDL\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Pawel\Desktop\DC XML\Czytanie XPDL\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Pawel\Desktop\DC XML\Czytanie XPDL\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Pawel\Desktop\DC XML\Czytanie XPDL\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Pawel\Desktop\DC XML\Czytanie XPDL\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Pawel\Desktop\DC XML\Czytanie XPDL\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\Penekk\DC XML\Czytanie XPDL\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Pawel\Desktop\Penekk\DC XML\Czytanie XPDL\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Pawel\Desktop\Penekk\DC XML\Czytanie XPDL\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Pawel\Desktop\Penekk\DC XML\Czytanie XPDL\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Pawel\Desktop\Penekk\DC XML\Czytanie XPDL\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Pawel\Desktop\Penekk\DC XML\Czytanie XPDL\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\ReadXPDLAttributes\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Pawel\Desktop\ReadXPDLAttributes\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Pawel\Desktop\ReadXPDLAttributes\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
